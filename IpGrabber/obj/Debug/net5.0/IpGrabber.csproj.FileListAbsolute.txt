@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.AssemblyInfo.cs
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.exe
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.deps.json
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.runtimeconfig.json
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.runtimeconfig.dev.json
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.dll
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\ref\IpGrabber.dll
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\bin\Debug\net5.0\IpGrabber.pdb
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.dll
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\ref\IpGrabber.dll
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.pdb
+C:\Users\admin\source\repos\IpGrabber\IpGrabber\obj\Debug\net5.0\IpGrabber.genruntimeconfig.cache
