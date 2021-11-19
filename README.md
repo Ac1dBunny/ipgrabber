@@ -1,1 +1,1 @@
-WebClients may "die" every few months/weeks. 
+IP Address APIs may "die" every few months/weeks.
